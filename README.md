@@ -1,12 +1,12 @@
-# Dhis_Portofolio
-Project portfolio
+# Yudhistira Portfolio
+Visualisasi Analisis Survey Data with Google Data Studio 
 
 # [Project 1 : Data Visualization | Analisis Survey Rencana Proker PPIT Nanjing 2020/2021](https://datastudio.google.com/reporting/f26f3667-27ff-4270-8ae3-d72ac48e200a)
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes,
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes,
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes,
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes,
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes,
+* Arrange survey form from all of departemnts question into one form.
+* Data cleaning and arrangement for the result of survey with google sheet 
+* Make visualization of data result 
+* Build Dashboard Data Visualization 
+* Analyze the result of survey 
 
  ![](/images/Rencana Proker.jpg)
 
